@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{58501164-65F7-434C-A05B-FF5A24E7A3A7}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Walks/Controllers/RegionsController.cs">
+    <Files>
+      <File FileName="Walks/Controllers/RegionsController.cs" Line="59" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WalksAPI" expanded="True">
+            <Node name="Walks" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RegionsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Domain" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Walks PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+</Properties>
